@@ -17,6 +17,7 @@ $params = require __DIR__ . '/config/config.php';
 <body>
 
 <h3>Чаты Мариуполя</h3>
+<p>Для добавления вашего чата свяжитесь со мной @adieush</p>
 
 <div id="googleMap" style="width:100%;height:600px;"></div>
 
