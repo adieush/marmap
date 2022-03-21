@@ -5,7 +5,7 @@ $params = require __DIR__ . '/config/config.php';
 <html>
 <body>
 
-<h1>My First Google Map</h1>
+<h3>Чаты Мариуполя</h3>
 
 <div id="googleMap" style="width:100%;height:600px;"></div>
 
