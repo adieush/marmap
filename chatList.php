@@ -6,14 +6,16 @@
     <style>
         table {
             margin: 25px 0;
-            width: 200px;
+            width: 50%;
         }
 
         table th, table td {
             padding: 10px;
             text-align: center;
         }
-
+        .num {
+            width: 20%;
+        }
         table, th, td {
             border: 1px solid;
         }
@@ -25,7 +27,7 @@
 <table id="list">
     <thead>
     <tr>
-        <th>#</th>
+        <th class="num">#</th>
         <th>Название чата</th>
     </tr>
     </thead>
