@@ -23,7 +23,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
-<p><a href="index.php">Назад</a></p>
+<p><a href="/">Назад</a></p>
 <table id="list">
     <thead>
     <tr>
