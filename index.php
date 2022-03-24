@@ -19,6 +19,7 @@ $params = require __DIR__ . '/config/config.php';
 
 <h3>Чаты Мариуполя</h3>
 <p>Для добавления вашего чата свяжитесь со мной в Телеграмме @adieush</p>
+<p><a href="chatList.php">Чаты в виде списка</a></p>
 
 <input
         id="pac-input"
